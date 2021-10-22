@@ -10,7 +10,7 @@ Il est développé sur Android Studio sous Java 8 et l'API 28.
 ## Installation
 
 - Récupérer le programme via le bouton Download ou en utilisant git clone avec ce lien _[Josay86](https://github.com/Josay86/OpenClassRooms-P3-Entrevoisins.git)_.
-- Une fois Android Studio, dans fichier sélectionner Open/File et choisir le fichier téléchargé
+- Une fois sur Android Studio, dans "Fichier" sélectionner Open/File et choisir le fichier téléchargé
 
 ## Lancement
 
@@ -50,7 +50,7 @@ It is developed on Android Studio under Java8 and API28.
 ## Installation 
 
 - Retrieve the program with the Download button or using git clone with this link _[Josay86](https://github.com/Josay86/OpenClassRooms-P3-Entrevoisins.git)_.
-- Once on Android Studio, in Files select Open/File and choose the downloaded file. 
+- Once in Android Studio, in "Files" select Open/File and choose the downloaded file. 
 
 ## Launch
 
